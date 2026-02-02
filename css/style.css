@@ -47,7 +47,7 @@ div {
 
   border-style: solid;
   border-color: #ffffff;
-  border-width: 0 0 2px 5px;   /* top right bottom left */
+  border-width: 0 0 2px 5px;
 }
 
 .blue {
@@ -57,7 +57,7 @@ div {
 
   border-style: solid;
   border-color: #ffffff;
-  border-width: 2px 5px 0 0;   /* top right bottom left */
+  border-width: 2px 5px 0 0;
 }
 
 .blue h2,
@@ -72,7 +72,7 @@ div {
 
   border-style: solid;
   border-color: #ffffff;
-  border-width: 0 0 2px 5px;   /* top right bottom left */
+  border-width: 0 0 2px 5px;
 }
 
 .yellow p {
@@ -86,7 +86,7 @@ div {
 
   border-style: solid;
   border-color: #ffffff;
-  border-width: 2px 5px 0 0;   /* top right bottom left */
+  border-width: 2px 5px 0 0;
 }
 
 footer {
